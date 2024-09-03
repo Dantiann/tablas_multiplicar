@@ -1,0 +1,7 @@
+C:\Users\ALEXANDER\source\repos\TablasMultiplicar\TablasMultiplicar\bin\Debug\TablasMultiplicar.exe.config
+C:\Users\ALEXANDER\source\repos\TablasMultiplicar\TablasMultiplicar\bin\Debug\TablasMultiplicar.exe
+C:\Users\ALEXANDER\source\repos\TablasMultiplicar\TablasMultiplicar\bin\Debug\TablasMultiplicar.pdb
+C:\Users\ALEXANDER\source\repos\TablasMultiplicar\TablasMultiplicar\obj\Debug\TablasMultiplicar.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\source\repos\TablasMultiplicar\TablasMultiplicar\obj\Debug\TablasMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\source\repos\TablasMultiplicar\TablasMultiplicar\obj\Debug\TablasMultiplicar.exe
+C:\Users\ALEXANDER\source\repos\TablasMultiplicar\TablasMultiplicar\obj\Debug\TablasMultiplicar.pdb
